@@ -1,7 +1,7 @@
 #### ConsoleTreasureGame
 Simple treasure collecting game in Ruby that runs in powershell/console
 
-To run
+To run:
 
 download
 
